@@ -6,3 +6,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> from random import randint
 >>> randint (0, 100)
 13
+16511
