@@ -5,6 +5,7 @@ print("Avant permutation :")
 print("x:", x)
 print("y:", y)
 
+
 t=x
 x=y
 y=t
