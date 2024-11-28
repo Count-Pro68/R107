@@ -16,3 +16,4 @@ print(nvQuantiteefromage, "gr de fromage")
 print(nvQuantiteeeau, "dl d'eau")
 print(nvQuantiteeail, "gousse(s) d'ail")
 print(nvQuantiteepain, "gr de pain")
+

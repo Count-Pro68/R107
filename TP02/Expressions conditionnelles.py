@@ -15,3 +15,4 @@ for i in range(3) :
         p = ("impair")
 
     print("le nombre est", s, "et", p)
+

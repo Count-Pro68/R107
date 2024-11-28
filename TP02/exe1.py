@@ -11,3 +11,4 @@ y=t
 print("Après permutation")
 print("x:", x)
 print("y:", y)
+
