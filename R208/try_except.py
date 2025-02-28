@@ -11,9 +11,9 @@ liste = [random.randint(0,100) for _ in range(tliste)]
 
 # Boucle "folle" --> la boucle "folle" est une boucle infinie = "while True"
 
-# while True:
-#   index = int(input("Entrez un index de la liste : ")) # Demande d'un index à l'utilisateur
-#   print("valeur de l'index", index, ":", liste[index]) # Affichage de la valeur
+while True:
+	index = int(input("Entrez un index de la liste : ")) # Demande d'un index à l'utilisateur
+	print("valeur de l'index", index, ":", liste[index]) # Affichage de la valeur
 
 # 3__________
 
